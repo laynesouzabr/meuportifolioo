@@ -1,0 +1,57 @@
+.imagem{
+
+    width: 10%;
+}
+
+.imagem-htlm{
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+
+H1{background-color: rgb(238, 167, 195);
+font-size: 70PX;
+text-align: center;
+}
+
+BODY {background-color: grey;
+
+}
+
+P{
+    text-align: center; 
+font-size: 30PX;
+
+}
+
+.apresentacao_links_link2 {
+    background-color: brown;
+    width: 200px; /* defina a largura do texto;*/ 
+    text-align: center;
+}
+
+.menu{
+    background-color:rgb(234, 213, 213);
+    width: 100vw;
+}
+.menu li{
+    list-style: none;
+
+} 
+.menu a {
+    text-decoration: none;
+}
+.menu a:hover{
+text-decoration: underline;
+background-color: white;
+
+
+}
+body{
+    font-family: Arial;
+    text-align: center;
+}
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+}
